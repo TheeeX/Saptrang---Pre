@@ -11,3 +11,27 @@
     <!--color-#4e565f
         #11abb0-->
 }
+#container{
+    background-color:#1b1e21;
+    background-size: cover;
+    position:relative;
+    z-index:7;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    <!--color-#4e565f
+        #11abb0-->
+}
+#container2{
+    background-color: #fff;
+    background-size: cover;
+    position:relative;
+    z-index:7;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    <!--color-#4e565f
+        #11abb0-->
+}
